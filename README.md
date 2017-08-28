@@ -23,7 +23,7 @@
 
 <p>Openc2-Reactor-master provides an OpenC2 API to send commands to downstream relays, as well as a way for analyst to manually send commands to capable actuators deployed on client's sites that wouldn't be accessible directly from the internet</p>
 
-<p>The associated GitHub repository is: openc2-reactor-relay.</p>
+<p>The associated GitHub repository is: <a href="https://github.com/oasis-open/openc2-reactor-relay">openc2-reactor-relay</a>.</p>
 
 <p>The initial codebase is imported from the OpenC2 Forum's Github repository.</p>
 
